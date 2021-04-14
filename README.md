@@ -11,13 +11,14 @@ Further information about Bsvcoin Core is available in the [doc folder](/doc).
 What is Bsvcoin?
 ----------------
 
-Bsvcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bsvcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bsvcoin Core is the name of open source
-software which enables the use of this currency.
+Bsvcoin is an experimental digital currency that allows instant payments to 
+anyone and to buy Real Estate Assets in Venezuela and anywhere in the world. 
+Bsvcoin uses peer-to-peer technology to operate without a central authority: 
+the management of transactions and the issuance of money are carried out 
+collectively by the network. Bsvcoin Core is the name of the open source software 
+that allows the use of this currency. Using for this also Smart Contracts
 
-For more information read the original Bsvcoin whitepaper.
+For more information, read the original Bsvcoin whitepaper.
 
 License
 -------
