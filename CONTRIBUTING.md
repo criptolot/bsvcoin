@@ -427,7 +427,7 @@ Release Policy
 
 The project leader is the release manager for each Bsvcoin Core release.
 
-Copyright
+Copyright 2021
 ---------
 
 By contributing to this repository, you agree to license your work under the
