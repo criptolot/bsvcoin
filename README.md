@@ -4,7 +4,7 @@ Bsvcoin Core integration/staging tree
 https://bsvcoincore.org
 
 For an immediately usable, binary version of the Bsvcoin Core software, see
-https://bsvcoincore.org/en/download/.
+https://bsvcoin.io/en/download/.
 
 Further information about Bsvcoin Core is available in the [doc folder](/doc).
 
