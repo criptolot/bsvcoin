@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[bsvcoin.qt-translation-021x]
+file_filter = src/qt/locale/bsvcoin_<lang>.ts
+source_file = src/qt/locale/bsvcoin_en.ts
+source_lang = en

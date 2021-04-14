@@ -1,0 +1,33 @@
+# /etc/conf.d/bsvcoind: config file for /etc/init.d/bsvcoind
+
+# Config file location
+#BSVCOIND_CONFIGFILE="/etc/bsvcoin/bsvcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BSVCOIND_USER)
+#BSVCOIND_PIDDIR="/var/run/bsvcoind"
+
+# What filename to give the pidfile
+#BSVCOIND_PIDFILE="${BSVCOIND_PIDDIR}/bsvcoind.pid"
+
+# Where to write bsvcoind data (be mindful that the blockchain is large)
+#BSVCOIND_DATADIR="/var/lib/bsvcoind"
+
+# User and group to own bsvcoind process
+#BSVCOIND_USER="bsvcoin"
+#BSVCOIND_GROUP="bsvcoin"
+
+# Path to bsvcoind executable
+#BSVCOIND_BIN="/usr/bin/bsvcoind"
+
+# Nice value to run bsvcoind under
+#BSVCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BSVCOIND_OPTS=""
+
+# The timeout in seconds OpenRC will wait for bsvcoind to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BSVCOIND_SIGTERM_TIMEOUT=600
